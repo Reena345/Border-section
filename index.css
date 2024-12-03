@@ -1,0 +1,30 @@
+*{
+    margin: 40px 30px;
+    padding: 20px 10px;
+    background-color: rgb(212, 197, 178);
+    border: 1px solid rgb(110, 103, 103);
+}
+
+
+.head h1{
+    color: white;
+    margin: 60px ;
+    padding: 10px;
+    border:10px solid rgb(253, 148, 148) ;
+    background-color: rgb(177, 218, 218);
+    text-align: center;
+    font-size: 50px;
+    outline: 6px solid rgb(146, 43, 43);
+    outline-offset: 6px;
+}
+.head p{
+    margin-top: 50px;
+    background-color: rgb(199, 199, 151);
+    font-size: 35px;
+    text-align: justify;
+    border: 7px solid rgb(112, 33, 33);
+    padding: 30px 45px;
+    color: brown;
+    outline: 6px solid rgb(28, 180, 28);
+    outline-offset: 9px;
+}
